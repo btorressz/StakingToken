@@ -1,2 +1,12 @@
 # StakingToken
-An example of a project that was developed for a private client
+This repository highlights development work completed for a confidential client.
+
+Tech Stack:
+
+Rust
+Typescript
+Solana
+
+Tools:
+https://beta.solpg.io/
+VSCode
